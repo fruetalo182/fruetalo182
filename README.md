@@ -36,7 +36,8 @@ I enjoy diving into new tech and testing different setups. I have a knack for au
 <img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/> 
 <img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg"/> 
 
-
-
-
+### 📚 Influences
+- The Art of War by Sun Tzu
+- The Subtle Art of Not Giving a F*ck by Mark Manson
+- The DevOps Handbook, Second Edition by Gene Kim, Jez Humble, Patrick Debois, John Willis and Nicole Forsgren
 
