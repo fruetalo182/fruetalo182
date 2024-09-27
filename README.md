@@ -6,20 +6,22 @@ I enjoy diving into new technologies and managing everything from on-premise set
 
 <p align="left">
    <a href="https://github.com/fruetalo182?tab=repositories" title="Check out my GitHub">
-      <img alt="GitHub Repositories" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
+      <img alt="GitHub Repositories" src="https://img.shields.io/badge/github-4E3D91?style=for-the-badge&logo=github&logoColor=white"/>
    </a>
    <a href="https://medium.com/@fruetalo182" title="Follow me on Medium">
-      <img alt="Medium" src="https://img.shields.io/badge/medium-00AB6B?style=for-the-badge&logo=medium&logoColor=white"/>
+      <img alt="Medium" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
    </a>
    <a href="https://www.linkedin.com/in/facundo-ruetalo-yanes" title="Connect with me on LinkedIn">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </p>
 
+
 ---
 
 ### 🧰 Stack
 
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/> 
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> 
 <img align="left" alt="Helm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg"/>
@@ -27,9 +29,8 @@ I enjoy diving into new technologies and managing everything from on-premise set
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
 <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/> 
 <img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/> 
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
+<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/> 
+<img align="left" alt="ArgoCD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"/> 
 
 
-
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
