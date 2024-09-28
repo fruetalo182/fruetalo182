@@ -37,10 +37,9 @@ I enjoy diving into new tech and testing different setups. I have a knack for au
 <br/> 
 
 ---
-
+··
 ### 📚 Influences
-- Accelerate: The Science of Lean Software and DevOps by Nicole Forsgren, Jez Humble, and Gene Kim
-- Site Reliability Engineering by Google
-- The Art of War by Sun Tzu
-- The DevOps Handbook, Second Edition by Gene Kim, Jez Humble, Patrick Debois, John Willis and Nicole Forsgren
-
+*`⋗ Accelerate: The Science of Lean Software and DevOps by Nicole Forsgren, Jez Humble, and Gene Kim`* <br/> 
+*`⋗ Site Reliability Engineering by Google`* <br/> 
+*`⋗ The Art of War by Sun Tzu`* <br/> 
+*`⋗ The DevOps Handbook, Second Edition by Gene Kim, Jez Humble, Patrick Debois, John Willis and Nicole Forsgren`*
