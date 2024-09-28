@@ -37,7 +37,7 @@ I enjoy diving into new tech and testing different setups. I have a knack for au
 <br/> 
 
 ---
-··
+
 ### 📚 Influences
 *`⋗ Accelerate: The Science of Lean Software and DevOps by Nicole Forsgren, Jez Humble, and Gene Kim`* <br/> 
 *`⋗ Site Reliability Engineering by Google`* <br/> 
