@@ -2,7 +2,7 @@
 
 **`DevOps Engineer`**
 
-I enjoy diving into new tech and testing different setups. I have a knack for automating processes, juggling deployments across different environments, and fine-tuning CI/CD pipelines. I focus on keeping things secure, reliable and scalable while embracing GitOps practices to help teams and the community create awesome solutions!
+I enjoy diving into new tech and testing different setups. I combat the "toil" automating everything I can, juggling deployments across different environments, and fine-tuning CI/CD pipelines. I focus on keeping things secure, reliable and scalable while embracing GitOps practices to help teams and the community create awesome solutions!
 
 <p align="left">
    <a href="https://github.com/fruetalo182?tab=repositories" title="Check out my GitHub">
